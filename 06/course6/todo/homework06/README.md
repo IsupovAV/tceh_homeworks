@@ -1,2 +1,2 @@
 # tceh_homeworks
-I love Python
+I love Python and git!
